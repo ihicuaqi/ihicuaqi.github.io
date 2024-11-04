@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihicuaqi.github.io/OQW/sitemap_index.txt
+Sitemap: https://ihicuaqi.github.io/deq/sitemap_index.txt
+Sitemap: https://ihicuaqi.github.io/fhg/sitemap_index.txt
+Sitemap: https://ihicuaqi.github.io/yml/sitemap_index.txt
